@@ -19,3 +19,6 @@
 - organization: Davidson Consulting
   description: We have installed the kube-green operator on our OKD pre-production cluster in order to automatically scale-down the workloads in non-business hours. And, this helps a lot in reducing the resource consumption.
   website: https://www.davidson.group
+- organization: Egypt Japan University of Science and Technology
+  description: We use kube-green for research on sustainable serverless computing
+  website: https://www.ejust.edu.eg
